@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "book_title": "Cien años de soledad",
+      "price": 23,
+      "last_owner": "María Teresa García",
+      "id": 5
+    },
+    {
+      "book_title": "1984",
+      "price": 13,
+      "last_owner": "Carmen García",
+      "id": 6
+    },
+    {
+      "book_title": "Un mundo feliz",
+      "price": 8,
+      "last_owner": "Daniel Sánchez",
+      "id": 7
+    },
+    {
+      "book_title": "Crimen y castigo",
+      "price": 18,
+      "last_owner": "Isabel López",
+      "id": 8
+    },
+    {
+      "book_title": "Lolita",
+      "price": 15,
+      "last_owner": "Javier Martínez",
+      "id": 9
+    },
+    {
+      "book_title": "Ulises",
+      "price": 17,
+      "last_owner": "José García",
+      "id": 10
+    },
+    {
+      "book_title": "Madame Bovary",
+      "price": 18,
+      "last_owner": "Laura Pérez",
+      "id": 11
+    },
+    {
+      "book_title": "El retrato de Dorian Gray",
+      "price": 20,
+      "last_owner": "Daniel Gómez",
+      "id": 12
+    },
+    {
+      "book_title": "El Principito",
+      "price": 21,
+      "last_owner": "Jose Antonio Fernández",
+      "id": 13
+    },
+    {
+      "book_title": "El proceso",
+      "price": 12,
+      "last_owner": "Laura Martín",
+      "id": 14
+    },
+    {
+      "book_title": "Alicia en el país de las maravillas",
+      "price": 21,
+      "last_owner": "Josefa González",
+      "id": 15
+    },
+    {
+      "book_title": "Rebelión en la granja",
+      "price": 19,
+      "last_owner": "Sergio Rodríguez",
+      "id": 16
+    },
+    {
+      "book_title": "Los pilares de la tierra",
+      "price": 29,
+      "last_owner": "Pedro Gómez",
+      "id": 17
+    }
+  ]
+}
